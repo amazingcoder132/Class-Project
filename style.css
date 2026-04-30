@@ -31,6 +31,16 @@ p, ul, table {
     line-height: 1.6;
 }
 
+section {
+    background: white;
+    padding: 25px;
+    margin: 30px auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.15);
+    border-left: 8px solid #1e3d59;
+}
+
 footer {
     text-align: center;
     padding: 15px;
